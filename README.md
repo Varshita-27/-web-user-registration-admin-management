@@ -21,8 +21,4 @@ A simple JSP-based web application for user registration and admin management.
 1. Import the project into VS Code or any Java IDE.
 2. Set up MySQL database named `userdb` and create a `user` table.
 3. Configure Apache Tomcat and deploy the project.
-4. Run the app at `http://localhost:8080/your-project-name`.
 
-## Admin Credentials
-- Username: admin  
-- Password: admin
